@@ -1,0 +1,4 @@
+:HL["/pulseboard-live-demo/_next/static/chunks/368jit194rh_d.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"mobile","h":96,"c":"$Q2"}]]
+0:{"b":"eaLAn-e6rrMMf9a_94QFy","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
